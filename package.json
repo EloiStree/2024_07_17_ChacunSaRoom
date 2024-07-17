@@ -1,0 +1,15 @@
+{
+    "name": "be.eloistree.maroom",
+    "version": "0.0.1",
+    "displayName": "Ma Techno Room Eloi",
+    "description": "My Techno room space.",
+    "unity": "2020.3",
+    "unityRelease": "0f1",
+    
+    "author": {
+      "name": "Eloi Stree",
+      "email": "eloistree@gmail.com",
+      "url": "https://github.com/EloiStree"
+    }
+    
+  }
